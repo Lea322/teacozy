@@ -91,7 +91,7 @@ header {
 #mission-section {
   display: flex;
   align-items: center;
-  background-image: url(/resources/media/img-mission-background.jpg);
+  background-image: url(../media/img-mission-background.jpg);
   height: 700px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -141,7 +141,7 @@ p {
 }
 
 .locations {
-  background-image: url(/resources/media/img-locations-background.jpg);
+  background-image: url(../media/img-locations-background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
